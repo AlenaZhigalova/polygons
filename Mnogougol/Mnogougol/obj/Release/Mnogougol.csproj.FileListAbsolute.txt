@@ -1,0 +1,24 @@
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\bin\Release\Mnogougol.exe
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\bin\Release\Mnogougol.pdb
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Release\Mnogougol.Form1.resources
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Release\Mnogougol.Properties.Resources.resources
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Release\Mnogougol.csproj.GenerateResource.Cache
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Release\Mnogougol.exe
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Release\Mnogougol.pdb
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Release\Mnogougol.exe
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Release\Mnogougol.pdb
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\bin\Release\Mnogougol.exe
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\bin\Release\Mnogougol.pdb
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Release\Mnogougol.Form1.resources
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Release\Mnogougol.Properties.Resources.resources
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Release\Mnogougol.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\obj\Release\Mnogougol.exe
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\obj\Release\Mnogougol.pdb
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\bin\Release\Mnogougol.exe
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\bin\Release\Mnogougol.pdb
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\obj\Release\Mnogougol.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\obj\Release\Mnogougol.Form1.resources
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\obj\Release\Mnogougol.Properties.Resources.resources
+C:\Users\User\Desktop\Диплом\Mnogougol\Mnogougol\Mnogougol\obj\Release\Mnogougol.csproj.GenerateResource.Cache

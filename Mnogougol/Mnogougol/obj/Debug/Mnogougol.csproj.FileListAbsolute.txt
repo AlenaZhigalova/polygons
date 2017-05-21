@@ -1,0 +1,16 @@
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\bin\Debug\Mnogougol.exe
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\bin\Debug\Mnogougol.pdb
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Debug\Mnogougol.Form1.resources
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Debug\Mnogougol.Properties.Resources.resources
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Debug\Mnogougol.csproj.GenerateResource.Cache
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Debug\Mnogougol.exe
+C:\Users\Разрыхлитель\AppData\Local\Temporary Projects\Mnogougol\obj\Debug\Mnogougol.pdb
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\bin\Debug\Mnogougol.exe
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\bin\Debug\Mnogougol.pdb
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Debug\Mnogougol.Form1.resources
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Debug\Mnogougol.Properties.Resources.resources
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Debug\Mnogougol.csproj.GenerateResource.Cache
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Debug\Mnogougol.exe
+C:\Users\Разрыхлитель\Documents\Visual Studio 2008\Projects\Mnogougol\Mnogougol\obj\Debug\Mnogougol.pdb
